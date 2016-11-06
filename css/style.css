@@ -163,6 +163,9 @@ body {
 .mobile-nav-on {
   overflow: hidden;
 }
+#sub-nav {
+  display: none;
+}
 #wrap {
   height: 100%;
   width: 100%;
